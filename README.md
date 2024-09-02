@@ -1,2 +1,8 @@
+# Bem vindo ao projeto Security!
 
-Projeto voltado a aprender a desenvolver com SpringSecurity e suas diversas funcionalidades
+Este basicamente é um projeto com Java Spring Boot, onde foi desenvolvido para fins de estudo principalmente em Spring Security. Neste projeto ele tem o foco em controles de acesso e formas de autenticação customizadas tanto em base em memoria quanto com usuários cadastrados em banco de dados.
+
+
+# Como rodar o projeto?
+
+Para utilizarmos o projeto basta você ir na parte de <>Code em azul e baixar como zip. Após o download você irá precisar deszipar a pasta, abrir em sua IDE de preferencia, configurar o java em sua maquina e rodar a classe SecurityApplication.java!
